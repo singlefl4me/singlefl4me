@@ -18,12 +18,12 @@ currently working on desktop companions/toys in the japanese program [SSP](https
 if you have any questions/feedback in regards to my projects, create a new discussion in the ghosts repository.
 
 ### current ghosts:
-  -released
-    bugsnax
-    gingerbrave
-    welcome home
-  -unreleased
-    sackboy
+ - released
+   - [bugsnax](https://ukagakadreamteam.com/wiki/ghost/bugsnax)
+   - [gingerbrave](https://ukagakadreamteam.com/wiki/ghost/gingerbrave)
+   - [welcome home](https://ukagakadreamteam.com/wiki/ghost/welcome_home)
+ - unreleased
+   - [sackboy](https://ukagakadreamteam.com/wiki/event/ghost_jam_2022#submissions)
 
 these files require [SSP](https://ssp.shillest.net/) to run. Once open, drag a .nar file onto the character and open using the right-click menu. Visit the [wiki](https://ukagakadreamteam.com/wiki/guide/beginner_guide) for more information.
 
