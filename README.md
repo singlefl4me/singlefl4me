@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### idkimtired
 <!--
 **singlefl4me/singlefl4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+currently working on desktop companions/toys in the japanese program [SSP](https://ssp.shillest.net/). doing what i want and loving what i do
+if you have any questions/feedback in regards to my projects, create a new discussion in the ghosts repository.
+
+### current ghosts:
+  -released
+    bugsnax
+    gingerbrave
+    welcome home
+  -unreleased
+    sackboy
+
+these files require [SSP](https://ssp.shillest.net/) to run. Once open, drag a .nar file onto the character and open using the right-click menu. Visit the [wiki](https://ukagakadreamteam.com/wiki/guide/beginner_guide) for more information.
+
+### contact
+  [discord](https://discord.com): @.idk_39
+
+please enjoy! (o゜▽゜)o☆
