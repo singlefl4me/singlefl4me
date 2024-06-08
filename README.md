@@ -22,6 +22,8 @@ if you have any questions/feedback in regards to my projects, create a new discu
    - [bugsnax](https://ukagakadreamteam.com/wiki/ghost/bugsnax) ![icon](https://github.com/singlefl4me/singlefl4me/assets/111165084/228541a2-b660-43bc-89ea-690e5205edd6)
    - [gingerbrave](https://ukagakadreamteam.com/wiki/ghost/gingerbrave) ![icon_gingerbrave](https://github.com/singlefl4me/singlefl4me/assets/111165084/569c0c53-e9c1-4e94-85c3-e9c42214edb5)
    - [welcome home](https://ukagakadreamteam.com/wiki/ghost/welcome_home) ![wh_icon](https://github.com/singlefl4me/singlefl4me/assets/111165084/741d2af7-b662-4426-b2e7-2b44909094c7)
+   - [hazy days](https://ukagakadreamteam.com/wiki/ghost/hazy_days) ![icon (2)](https://github.com/singlefl4me/singlefl4me/assets/111165084/b0bd42be-29e9-4e30-863e-561912ad06e4)
+
  - unreleased
    - [sackboy](https://ukagakadreamteam.com/wiki/event/ghost_jam_2022#submissions)
 
