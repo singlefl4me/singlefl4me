@@ -21,9 +21,6 @@ if you have any questions/feedback in regards to my projects, create a new discu
  - released
    - [all of my relesed ghosts can be found in my main repository.](https://github.com/singlefl4me/idk_ghosts)
 
- - unreleased
-   - [sackboy](https://ukagakadreamteam.com/wiki/event/ghost_jam_2022#submissions) (discord-exclusive)
-
 
 these files require [SSP](https://ssp.shillest.net/) to run. Once open, drag a .nar file onto the character and open using the right-click menu. Visit the [wiki](https://ukagakadreamteam.com/wiki/guide/beginner_guide) for more information.
 
